@@ -1,0 +1,71 @@
+.instruction-page{
+    background-image: url("https://i.pinimg.com/originals/39/e6/ec/39e6ec0ceba16fe3fb063328df0413a3.jpg")
+}
+#heading{
+    display: flex;
+    justify-content: center;
+    color: #ffffff;
+    font-weight: bolder;
+    font-size: 4rem;
+}
+
+.instruction{
+    margin-top: 5vw;
+    margin-left: 5vw;
+    background-color:black;
+
+    width: 25vw;
+    height: 50vh;
+    border-style: double;
+    border-color: azure;
+    border-radius: 1vw;
+    border-width: 1vw;
+}
+
+.a{
+    display: flex;
+    justify-content: center;
+    font-size: 3vw;
+    color: bisque;
+   
+}
+
+.abc{
+    display: flex;
+    justify-content: center;
+    color: azure;
+    font-size: 1vw;
+    margin-left: 1vw;
+    margin-top: 0vw;
+}
+
+.name{
+    display: flex;
+    margin-top: 0vw;
+    margin-left: 7vw;
+}
+
+input{
+    margin-top: 0.5vw;
+    width: 10vw;
+    height: 5vh;
+    margin-left: 2vw;
+}
+
+.b{
+    display: flex;
+    margin-left: 14vw;
+    margin-top: 0.5vw;
+}
+.G{
+    color: #ffffff;
+}
+
+#play-butn{
+    background: rgb(241, 152, 251);
+    border: none;
+    width: 7vw;
+    height: 4vw;
+    border-radius: 1vw;
+    font-size: 2vw;
+}

@@ -1,0 +1,14 @@
+.highscore{
+    background-image: url("https://static.vecteezy.com/system/resources/previews/002/170/333/original/mars-purple-space-landscape-with-large-planets-on-purple-starry-sky-meteors-and-mountains-nature-on-another-planet-with-a-huge-planet-on-the-horizon-vector.jpg");
+    color: #fff;
+}
+
+#highScoresList {
+    list-style: none;
+    margin-bottom: 4rem;
+}
+
+.high-score {
+    font-size: 2.8rem;
+    margin-bottom: 0.5rem;
+}
